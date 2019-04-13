@@ -1733,10 +1733,6 @@ body {
 .cid-rnc0JdR5zz .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rnc0JdR5zz .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rnc0JdR5zz .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rnc0JdR5zz .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rnc0JdR5zz .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1837,10 +1833,6 @@ body {
   .cid-rnc0JdR5zz .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rnc0JdR5zz .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rnc0JdR5zz .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rnc0JdR5zz .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rnc0JdR5zz .navbar-collapse.collapsing .navbar-buttons,
   .cid-rnc0JdR5zz .navbar-collapse.show .navbar-buttons {
@@ -2151,10 +2143,6 @@ body {
 .cid-rnce7PsH6Z .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rnce7PsH6Z .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rnce7PsH6Z .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rnce7PsH6Z .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rnce7PsH6Z .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2255,10 +2243,6 @@ body {
   .cid-rnce7PsH6Z .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rnce7PsH6Z .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rnce7PsH6Z .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rnce7PsH6Z .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rnce7PsH6Z .navbar-collapse.collapsing .navbar-buttons,
   .cid-rnce7PsH6Z .navbar-collapse.show .navbar-buttons {
@@ -2561,10 +2545,6 @@ body {
 .cid-rnbYX870AI .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rnbYX870AI .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rnbYX870AI .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rnbYX870AI .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rnbYX870AI .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2665,10 +2645,6 @@ body {
   .cid-rnbYX870AI .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rnbYX870AI .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rnbYX870AI .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rnbYX870AI .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rnbYX870AI .navbar-collapse.collapsing .navbar-buttons,
   .cid-rnbYX870AI .navbar-collapse.show .navbar-buttons {
@@ -2968,10 +2944,6 @@ body {
 .cid-rnc0oybGlg .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rnc0oybGlg .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rnc0oybGlg .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rnc0oybGlg .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rnc0oybGlg .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3073,10 +3045,6 @@ body {
   .cid-rnc0oybGlg .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-rnc0oybGlg .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rnc0oybGlg .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-rnc0oybGlg .navbar-collapse.collapsing .navbar-buttons,
   .cid-rnc0oybGlg .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -3169,8 +3137,11 @@ body {
   background-color: #313131;
 }
 .cid-rnpOPLVhZg .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rnpOPLVhZg H2 {
+  color: #ffffff;
+}
+.cid-rnpOPLVhZg .mbr-section-subtitle DIV {
   color: #ffffff;
 }
